@@ -18,3 +18,17 @@
 
 ## Resultados
 
+<p align="center">
+    <br>
+    <img src="./images/inclusion.png" width=512px height=512px>
+    <h5 align="center">Figura 1 - Tela com cadastro de alunos e notas.</h5>
+    <br>
+</p>
+
+
+<p align="center">
+    <br>
+    <img src="./images/exclusion.png" width=512px height=512px>
+    <h5 align="center">Figura 2 - Tela com exclusão de alunos.</h5>
+    <br>
+</p>
