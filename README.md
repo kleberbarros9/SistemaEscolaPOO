@@ -3,7 +3,7 @@
 ------
 
 1. Use o window builder para construção da Tela;
-2. Use o polimorfismo eherança (recursos do POO)
+2. Use o polimorfismo e herança (recursos do POO)
 3. Utilize cálculos diferentes para dois tipos de alunos(Regulares e Especiais)
 5. Mostre o resultado a partir dessa escolha.
 
