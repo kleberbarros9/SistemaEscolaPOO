@@ -11,9 +11,9 @@
 1. Para Aluno regular calcule a média das notas e multiplique o resultado final por 1.25
 2. Para Aluno Especial calcule a média das notas e multiplique o resultado final por 1.75
 3. Necessário usar Herança e polimorfismo
-4. Crie Três Classes para representar o Aluno (Super Classe) e Subclasses (AlunoRegular eAlunoEspecial)
+4. Crie Três Classes para representar o Aluno (Super Classe) e Subclasses (AlunoRegular e AlunoEspecial)
 5. Criar visualização com JFrame
-6. Modelar inclusa e exclusão em JTable
+6. Modelar inclusão e exclusão em JTable
 
 
 ## Resultados
